@@ -1,0 +1,29 @@
+# 2D Idle Excavator Empire 🚜
+
+## Description
+A 2D idle management game where players buy, upgrade, and manage excavators
+to generate income while managing fuel resources.
+
+## Features
+- Multiple machines with upgrade levels
+- Fuel consumption and refill system
+- Income per second calculation
+- Interactive UI panels and store system
+
+## Tech Stack
+- Unity
+- C#
+- Unity UI System
+
+## What I Learned
+- Game state management
+- Coroutine-based systems
+- Clean code architecture in Unity
+
+## Screenshots
+(Add screenshots here)
+
+## How to Run
+1. Clone the repository
+2. Open in Unity Hub
+3. Press Play
